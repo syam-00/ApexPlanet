@@ -137,8 +137,6 @@ Created business presentations and validated insights using statistical analysis
 
 ## 📊 Power BI Dashboard
 
-(Add your dashboard screenshot here)
-
 Example:
 
 ```markdown
