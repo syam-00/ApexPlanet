@@ -140,7 +140,7 @@ Created business presentations and validated insights using statistical analysis
 Example:
 
 ```markdown
-<img width="1365" height="767" alt="dashboard " src="https://github.com/user-attachments/assets/476a7522-0dad-45bb-887d-4ef23defeabd" />
+<img width="1365" height="767" alt="dashboard " src="https://github.com/syam-00/ApexPlanet-Internship-SYAM/blob/main/ApexPlanet-Data%20Analytics/Task%20-3_Interactive_Dashboard/dashboard%20.png" />
 
 ```
 
